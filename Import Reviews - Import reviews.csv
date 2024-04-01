@@ -1,0 +1,2 @@
+title,body,rating,review_date,reviewer_name,reviewer_email,product_id,picture_urls
+Title of the review,Body of the review,5,17/07/2023,John Smith,john@example.com,https://abc.myshopify.com/products/bath-body-works,"https://picture1.png, https://picture2.jpg"
